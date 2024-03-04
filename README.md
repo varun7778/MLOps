@@ -12,5 +12,5 @@ https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 ## Conclusion:
 Automating machine learning deployment using MLOps methodologies enhances efficiency and reliability in managing ML systems. This project serves as a guide for deploying image classification models on GCP using Docker, Kubernetes, and Cloud Build.
 
-##Reference
+## Reference
 https://readmedium.com/mlops-end-to-end-machine-learning-pipeline-cicd-1a7907698a8e
